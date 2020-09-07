@@ -1,0 +1,79 @@
+body,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand, .nav-link {
+    text-align: center;
+    font-family: "Pacifico";
+    font-size: 40px;
+}
+
+.pet {
+    height: 3.8rem;
+    background-color: #f164e8;
+}
+
+.titulo {
+    color: white;
+    font-weight: 700;
+    font-size: 1.4rem;
+    padding-top: 0.6rem;
+}
+
+.table .thead-dark th{
+    background-color: #f164e8;
+    border: none;
+    
+}
+
+.lista-cliente {
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: #f164e8;
+    margin-top: 1.8rem;
+    margin-bottom: 0.8rem;
+    padding: 0;
+}
+
+.btn-cadastro {
+    color: #f164e8;
+    background-color: white;
+    border-color:  #f164e8;
+    font-weight: 700;
+}
+
+.btn-cadastro:hover {
+    color: white;
+    background-color: #f596ef;
+    border-color:  white;
+    font-weight: 700;
+}
+
+img {
+    height: 1.3rem;
+}
+
+.card {
+    margin-top: 0.4rem;
+    width: 50%;
+    padding: 2.8rem;
+}
+
+.titulo-cadastro-cliente {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #f164e8;
+}
+
+
+.form-group {
+    margin-top: 1.2rem;
+}
+
+.form-group label {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: #f164e8;
+}
